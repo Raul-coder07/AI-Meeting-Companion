@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Variables de entorno con claves privadas
+.env
+
+# Registros y archivos de prueba de Gradio
+.gradio/
+flagged/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
